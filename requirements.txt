@@ -1,0 +1,21 @@
+# Scraping
+requests
+beautifulsoup4
+lxml
+selenium>=4.6
+
+# Data
+pandas
+numpy
+
+# ML
+scikit-learn
+joblib
+
+# Visualization / App
+matplotlib
+plotly
+streamlit
+
+# Testing
+pytest
